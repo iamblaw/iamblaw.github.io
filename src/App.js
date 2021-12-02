@@ -1,9 +1,12 @@
 import logo from './bryant.jpg';
 import './App.css';
+import './Navbar';
+import Navbar from './Navbar';
 
 function App() {
   return (
     <div className="App">
+    <Navbar />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
