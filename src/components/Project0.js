@@ -11,7 +11,7 @@ const Project0 = () => {
       <p>
         utilizes basic features of the react library and github. Pushing commits and using react scripts/commands.
       </p>
-      <a href="https://github.com/iamblaw/iamblaw.github.io"  target="_blank" > link to repo </a>
+      <a href="https://github.com/iamblaw/iamblaw.github.io/tree/859781b37df62cdd0125b09f455552f79295b7e2"  target="_blank" > link to repo </a>
     </div>
 
   );

@@ -1,6 +1,6 @@
 
 
-const AboutMe = () => {
+const ContactMe = () => {
 
   return (
     <div className="App-header">
@@ -20,4 +20,4 @@ const AboutMe = () => {
   );
 }
  
-export default AboutMe;
+export default ContactMe;
