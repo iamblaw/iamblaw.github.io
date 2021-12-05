@@ -14,7 +14,7 @@ function Form() {
 
     return (
         <div  className="App-header">
-            <h1>Contact Me</h1>
+            <h1>Contact Me: bryant.law@lc.cuny.edu</h1>
             <form onSubmit={handleSubmit} className="form">
                 <div className="name">
                     <label for="Name" id="nameLabel">First Name</label>
