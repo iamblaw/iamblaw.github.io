@@ -25,3 +25,17 @@ a:hover {
   margin: 40px auto;
   padding: 20px;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form input {
+  margin: 25px auto;
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  width: 90%;
+  height: 40px;
+}
